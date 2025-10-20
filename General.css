@@ -1,0 +1,17 @@
+.ramblegraph
+{
+    font-size:135%;
+    text-align:center;
+}
+.looplink
+{
+    color:black;
+    font-size:default;
+    text-decoration:none;
+}
+.pageclue
+{
+    text-align:center;
+    font-size:160%;
+    text-decoration:underline;
+}

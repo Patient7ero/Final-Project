@@ -1,0 +1,18 @@
+.sheepdiv
+{
+    text-align:center;
+}
+.sheepimg
+{
+    cursor: move;
+    position: relative;
+}
+.pen {
+    position: relative;
+    width: 33%;
+    height: 100%;
+}
+.pens {
+    height: 33hv;
+    width: 100%;
+}

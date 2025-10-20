@@ -1,0 +1,8 @@
+#CandleGrid {
+    justify-content:center;
+    display:grid;
+    grid-template-rows:auto auto auto auto auto;
+}
+#Wrapper {
+    display:flex;
+}
