@@ -2,17 +2,30 @@
 {
     text-align:center;
 }
-.sheepimg
-{
-    cursor: move;
-    position: relative;
+.sheepimg {
+    width: 5%;
+    height: 5%;
+}
+.pens {
+    margin-top: 3%;
+    height: 33%;
+    width: 100%;
+    display: flex; 
+    justify-content: space-around;
 }
 .pen {
-    position: relative;
     width: 33%;
     height: 100%;
 }
-.pens {
-    height: 33hv;
+#pen1 {
     width: 100%;
+    height: 100%;
+}
+#pen2 {
+    width: 100%;
+    height: 100%;
+}
+#pen3 {
+    width: 100%;
+    height: 100%;
 }
