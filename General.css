@@ -6,7 +6,6 @@
 .looplink
 {
     color:black;
-    font-size:default;
     text-decoration:none;
 }
 .pageclue
@@ -14,4 +13,14 @@
     text-align:center;
     font-size:160%;
     text-decoration:underline;
+}
+.audioDiv {
+    display: flex;
+    justify-content: center;
+}
+audio {
+    height: 5em;
+}
+form {
+text-align: left;
 }
