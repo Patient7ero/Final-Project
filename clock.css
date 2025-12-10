@@ -1,0 +1,15 @@
+#clock {
+    padding:0;
+    margin-top:6em;
+    text-align:center;
+    display:block;
+}
+#tableDiv {
+    text-align:center;
+    display:block;
+    margin-top:4em;
+}
+#timeTable {
+    align-content:center;
+    display:inline-flex;
+}
